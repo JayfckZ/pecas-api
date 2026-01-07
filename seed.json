@@ -1,0 +1,8 @@
+{
+  "company": { ... },
+  "products": [ ... ],
+  "vehicles": [ ... ],
+  "applications": [ ... ],
+  "company_products": [ ... ],
+  "taxes": [ ... ]
+}

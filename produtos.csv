@@ -1,0 +1,2 @@
+id,empresa,codigo,cod_barras,cod_fabricante,cesm,ncm,marca,descricao,subgrupo,texto_busca,preco_custo,preco_venda,quantidade,imagem_url,active,apelido,similares
+p1,Superarch,ABC123,7890000000000,FAB-01,x,1234.56.78,Bosch,Filtro de óleo,Filtros,"filtro oleo bosch abc123",10.5,19.9,12,https://site.com/img.jpg,true,"filtro bosch|filtro óleo","XYZ999|KLM555"
